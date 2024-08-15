@@ -136,5 +136,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Swagger](https://swagger.io/)
 - [PostgreSQL](https://www.postgresql.org/)
 ```
-
-You can customize this `README.md` as needed to fit your project's specific details and requirements.
